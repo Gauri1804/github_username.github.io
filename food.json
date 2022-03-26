@@ -1,0 +1,93 @@
+[
+    {
+        "foodId": 1,
+        "id": "",
+        "name": "Kafuli",
+        "image": "https://firebasestorage.googleapis.com/v0/b/uktweb-b84e0.appspot.com/o/Kafuli%20food.jpg?alt=media&token=5b2ad15a-63c2-40ea-9a9c-e1fc825ca00d",
+        "description": "This is an exotic and diet-conscious food, which is prepared with spinach and fenugreek leaves, which are common in this region. The main element of taste comes from using iron wok for cooking this dish. This dish originated from the hill regions of Uttarakhand and is very common among locals and tourists now. It is served hot with rice or roti. Fresh ghee is used for garnishing the dish.  "
+    },
+    {
+        "foodId": 2,
+        "id": "2",
+        "name": "Bhang ki chutney",
+        "image": "https://firebasestorage.googleapis.com/v0/b/uktweb-b84e0.appspot.com/o/.%20Bhang%20ki%20chutney%20food.jpg?alt=media&token=a8c702d7-400a-488a-ac3e-f4ee60e65104",
+        "description": "Bhage is hemp seeds, which is a variety of cannabis. This cuisine has chutney made from the seeds of this cannabis plant. The dish has a tangy and aromatic taste. The seeds are roasted and ground with other spices and mint leaf to create the chutney."
+    },
+    {
+        "foodId": 3,
+        "id": "3",
+        "name": "Garhwalka Fannah",
+        "image": "https://firebasestorage.googleapis.com/v0/b/uktweb-b84e0.appspot.com/o/Garhwalka%20Fannah%20food.jpg?alt=media&token=4616378b-484d-4056-b777-b275f5af93e5 ",
+        "description": "This is the staple dish of Mussoorie. It is made with a local variety of lentils with healthy dose of spices. The dish is served hot with roti or rice and is a very common dish in many marriage feasts too. This is a traditional Pahari dish. The primary flavor of the dish is derived from tomatoes and spices. This dish is quite similar to the famous dal makhani."
+    },
+    {
+        "foodId": 4,
+        "id": "4",
+        "name": "Phaanu",
+        "image": "https://firebasestorage.googleapis.com/v0/b/uktweb-b84e0.appspot.com/o/Phaanu%20food.jpg?alt=media&token=44db69cb-0b6f-48dd-b7b2-0e06451ceb73        ",
+        "description": "Phaanu is famous in Garhwal region. This is a complicated dish made with different types of lentils cooked into a soupy consistency. The lentils are soaked and ground to a paste consistency. Half of the lentil paste is used for making small crispy cutlets. The remaining half is cooked with water to make the soup. The cutlets are served along with the soup. The different types of lentils give a spectrum of aroma and a creamy taste."
+    },
+    {
+        "foodId": 5,
+        "id": "5",
+        "name": "Baadi",
+        "image": "https://firebasestorage.googleapis.com/v0/b/uktweb-b84e0.appspot.com/o/Baadi%20food.jpg?alt=media&token=93977a77-abd9-4975-bc6c-f8d850a953d1",
+        "description": "Baadi is made from Manduaor kwadaflour. This is an aboriginal dish of Kumaonis and it originated from the hill regions. This dish is rich in Vitamin A and B12. The Mandua flour is also used for making chapatti. This dish is very easy to make and has a rich aroma."
+    },
+    {
+        "foodId": 6,
+        "id": "6",
+        "name": "Kandleeka Saag",
+        "image": "https://firebasestorage.googleapis.com/v0/b/uktweb-b84e0.appspot.com/o/Kandleeka%20Saag%20food.jpg?alt=media&token=22c92f8d-0bd8-44b7-9ed9-867ca6a82ee6",
+        "description": "This is a dish made with Bicchu Ghas leaves and cottage cheese. This tangy dish is served with roti or rice. This is quite similar to palak paneer dish, but instead of palak, stinging neetle leaves are used. There are very few traditional restaurants, which still serve this traditional dish."
+    },
+    {
+        "foodId": 7,
+        "id": "7",
+        "name": "Jhangoraki Kheer",
+        "image": "https://firebasestorage.googleapis.com/v0/b/uktweb-b84e0.appspot.com/o/Jhangoraki%20Kheer%20food.jpg?alt=media&token=0930dc7f-8912-490d-a845-61d2dfa7b47b",
+        "description": "This is one of the many desserts of the region. Jhangori is a sweet pudding made with a millet, cream, and lot of nuts. The flavor comes from the local millets and kewra essence. Instead of millets, you can also find variants of this pudding made with vermicelli, chawal (rice), sabudana, and so on."
+    },
+    {
+        "foodId": 8,
+        "id": "8",
+        "name": "Gulgula",
+        "image": "https://firebasestorage.googleapis.com/v0/b/uktweb-b84e0.appspot.com/o/.%20Gulgula%20food.jpg?alt=media&token=11617b8b-c828-4a4c-bcd8-3a2133994bb3",
+        "description": "Gulgula is a simple dessert made with jaggery and wheat flour. The dish is lightly sweet and is also made in savory flavors. This is very common street food in the Garhwal region. The sweet version is a dish by itself and the savory version is served with mint chutney. The savory version is similar to Mangalore bajji or golibaje. The sweet version would taste similar to a doughnut.      In some communities, jaggery is used or corn flour is used."
+    },
+    {
+        "foodId": 9,
+        "id": "9",
+        "name": "Arsa",
+        "image": "https://firebasestorage.googleapis.com/v0/b/uktweb-b84e0.appspot.com/o/Arsa%20food.jpg?alt=media&token=098c78a3-b35b-4670-b969-b4731fcc6613",
+        "description": "This dessert is famous throughout the state. This dish is similar to Gulgula, but rice flour is used instead of wheat flour. This dish is specifically made with mustard oil. This dish is very common in Dehradun and surrounding regions. The locals prefer making this dish during all the festivals."
+    },
+    {
+        "foodId": 10,
+        "id": "10",
+        "name": "Singori",
+        "image": "https://firebasestorage.googleapis.com/v0/b/uktweb-b84e0.appspot.com/o/.%20Singori%20food.jpg?alt=media&token=4b7e9c79-0f37-46d4-865e-4c787f36ad99",
+        "description": "The dish's presentation like an ice cream using Maalu leaf is eye-catchy. This is a dish made with thickened milk and coconut, and is famous in Almora region. This dessert is also called Singauri. The unique flavor comes from using rose petals in the recipe.   In some areas, banana leaf is used for wrapping it, instead of Maalu leaf. The dish is wrapped when hot, so that the aroma of the leaves is infused into the dish."
+    },
+    {
+        "foodId": 11,
+        "id": "11",
+        "name": "Aaloo ke Gutke",
+        "image": "https://firebasestorage.googleapis.com/v0/b/uktweb-b84e0.appspot.com/o/.%20Aaloo%20ke%20Gutke%20food.jpg?alt=media&token=1ceb693f-d171-4c78-92ef-75de5d3d55d4",
+        "description": "The specialty of this potato stir fry is the mixture of spice used for tempering. An assortment of native spices like cumin, jakhiya, and dried red chili are used for creating the dish’s flavor. This is a traditional dish of Pahari and is now famous throughout the country. This is a famous winter dish of the land. It is usually served with rice or paratha."
+    },
+    {
+        "foodId": 12,
+        "id": "12",
+        "name": "Chainsoo",
+        "image": "https://firebasestorage.googleapis.com/v0/b/uktweb-b84e0.appspot.com/o/.%20Chainsoofood.jpg?alt=media&token=4680625e-0da9-4bce-91b5-b22b70043db4",
+        "description": "Chainsoo is made with black gram. This gram is hard to digest and thus, the recipe calls for deeply roasting the gram without oil. The gram is ground and mixed with asafetida, pepper, cumin, turmeric, and other spices and boiled in water. There are numerous variants to this dish. This dish is served with steaming rice."
+    },
+    {
+        "foodId": 13,
+        "id": "13",
+        "name": " Chudkaani",
+        "image": "https://firebasestorage.googleapis.com/v0/b/uktweb-b84e0.appspot.com/o/Chudkaani%20food.jpg?alt=media&token=36e7c6f8-703f-4908-95f1-c30cdbc3aeb9",
+        "description": "This dish is made with bhattdal, it is a local type of soya bean, which is black in color. This is a famous winter dish of the land, and highly nutritious one too. The unique flavor of the dish comes from jamboo, an indigenous Tibetan herb. Other spices added are coriander, turmeric, chili, and others. The dish is specifically made in an iron wok to bring a strong flavor to the dish.  Most Searches of Uttarakhand"
+    }
+]
