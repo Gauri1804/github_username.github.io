@@ -1,0 +1,155 @@
+[
+    {
+        "tourId": 1,
+        "id": "1",
+        "name": " lake of Dodital",
+        "image": "https://firebasestorage.googleapis.com/v0/b/uktweb-b84e0.appspot.com/o/tourism%20in%20uttrakhand%2Fagoda-village-8810202.jpg?alt=media&token=04627001-ffa3-47f6-b5b6-ecb70ecb68bd",
+        "from": "Agoda Village",
+        "description": "Perched at an altitude of 2250 mts and surrounded by majestic Himalayas, Agoda Village is a beautiful hamlet which lies en route the emerald lake of Dodital. Agoda Village is the first village that you’ll come across on Dodital Trek and an ideal halting point for people who wish to explore this scenic village and engage with the locals"
+    },
+    {
+        "tourId": 2,
+        "id": "2",
+        "name": " Panchnaag temple",
+        "image": "https://firebasestorage.googleapis.com/v0/b/uktweb-b84e0.appspot.com/o/tourism%20in%20uttrakhand%2Fbampa%20village.jpg?alt=media&token=67dc1c7e-042a-4047-b607-fc3c7e44e627",
+        "from": "Bampa Village",
+        "description": "Bampa is a village situated in Joshimath Tehsil of district Chamoli of Uttarakhand state. It is situated 370 km from Dehradun ( capital of Uttarakhand state) 32 km towards east district headquarters. The famous Panchnaag temple is situated in Bampa Village.  Panchang Temple in bampa village Panchang temple is very famous temple in this region with both historical and mythological importance. Every year are some events when all the locals visit panchang temple for religious ceremony."
+    },
+    {
+        "tourId": 3,
+        "id": "3",
+        "name": "Bigul",
+        "image": "https://firebasestorage.googleapis.com/v0/b/uktweb-b84e0.appspot.com/o/tourism%20in%20uttrakhand%2FBigul%20Village.jpg?alt=media&token=6f0efeb2-f3e7-411f-8b06-816aa0ed8538",
+        "from": "Bigul Village",
+        "description": "Bigul is a beautiful hidden destination that offers a stunning view of the Himalayas – from majestic Nanda Devi to thegorgeous Panchachuli peaks. Perched at an elevation of 2,000 meters, the tinyhamlet of Bigul is enveloped with lush greenery in the form of pine andrhodenderon trees"
+    },
+    {
+        "tourId": 4,
+        "id": "4",
+        "name": "Vijaypur",
+        "image": "",
+        "from": "Vijaypur",
+        "description": "Blanketed by the silver peaks and lush greenery, Vijaypur is a mirror to the snow-shrouded Himalayas showcasing their beauty in utmost grandeur. This hushed village is cocooned in the naturally enclosed region of Kumaon in Bageshgwar  HISTORY OF VIJAYPUR During british raj, vijaypur was known as “Ora”.This place was a formar tea estate that was establish by british, more than 100 years ago. Later that estate was acquire by a Gujarati trader named vijay lal shah who named the place after him. "
+    },
+    {
+        "tourId": 5,
+        "id": "5",
+        "name": "trek to Dyara Bugyal",
+        "image": "https://firebasestorage.googleapis.com/v0/b/uktweb-b84e0.appspot.com/o/tourism%20in%20uttrakhand%2FBarsu%20Village.jpg?alt=media&token=f3514f80-4e42-4803-90c6-2016de53238e",
+        "from": "Barsu Village",
+        "description": "Barsu village is situated in Uttarkashi district amidst scenic surroundings. It is the starting point of the trek to Dyara Bugyal.Its a small and scenic hamlet situated on road side in Uttarkashi district known for the base camp of Dayara Bugyal."
+    },
+    {
+        "tourId": 6,
+        "id": "6",
+        "name": "Gangotri temple",
+        "image": "",
+        "from": "Gangotri",
+        "description": "Gangotri is a small town centered around the temple of Gangotri temple and is one of the holy places among the four Char Dhams. It is the highest and the most important temple of river Ganga which is worshiped as a Goddess in India.         The origin of the holy river is at Gaumukh, set in the Gangotri glacier that can be accessed by a short 19 km trek from Gangotri. But according to Hindu mythology, Gangotri is the place where river Ganga descended from heaven when Lord Shiva released the mighty river from his luscious locks. More About Gangotri-        Gangotri along with the yamunotri, Badrinath and kedarnath forms the chota char dham which is an important pilgrimage place of hindus . Like the chota char dhams ,gangotri temple also close during the winter season.during which the idol of the goddess is shifted to ma durga temple in mukhba village about 20 km downstream. The town Gangotri remains open from may and gets closed on the occasion of Diwali festival."
+    },
+    {
+        "tourId": 7,
+        "id": "7",
+        "name": "Kuti Village",
+        "image": "https://firebasestorage.googleapis.com/v0/b/uktweb-b84e0.appspot.com/o/tourism%20in%20uttrakhand%2FKuti%20Village.jpg?alt=media&token=c7be1c2c-5587-41c4-bc14-c75aa06eae69",
+        "from": "Kuti Village",
+        "description": "Dharchula town is encircled by many small villages. Kuti village is one of them. Kuti village is a culturally vibrant village with over 115 traditional houses.  It is one among the 73 villages of Dharchula Block of Pithoragarh district. This place is a major halt for people proceeding to the Adi Kailash trek"
+    },
+    {
+        "tourId": 8,
+        "id": "8",
+        "name": "last Indian village from the border of India and Tibet/China",
+        "image": "https://firebasestorage.googleapis.com/v0/b/uktweb-b84e0.appspot.com/o/tourism%20in%20uttrakhand%2Fmana%20village.jpg?alt=media&token=884c152b-a782-4dc2-821b-3a2e51fdb684",
+        "from": "Mana Village",
+        "description": "Mana is a last Indian village from the border of India and Tibet/China in the Himalayas. It is located in the district of Chamoli. It’s been designated as a “Tourism Village” by the Uttarakhand government. Mana village is one of best tourist attraction nearby to Badrinath, It's just 3 kms from Badrinath town. The village is on the banks of the River Saraswati. It is situated at a height of around 3219 meters. The village is surrounded by Himalayan hills.   Mana village in Badrinath-        People who are leaving there called bhotias(Mongol drives). The villagers of this village lives in small cottages that are decorated and carved gracefully. Mana is famous for its amny things like woolen , garments and materials(mostly of sheep wool), shawls , caps ,mufflers, ashan, paknlhi ( a thin blanket made of sheep wool, carpet ,etc. Apart from this Mana is famous for its potatoes and kidney beans."
+    },
+    {
+        "tourId": 9,
+        "id": "9",
+        "name": "Hark ki Dun trek",
+        "image": "https://firebasestorage.googleapis.com/v0/b/uktweb-b84e0.appspot.com/o/tourism%20in%20uttrakhand%2Fhar-ki-doon-9217083.jpg?alt=media&token=e837f115-2030-48f8-b750-d596a6601949",
+        "from": "Taluka Village",
+        "description": "Taluka is a small picturesque hamlet located at a distance of 12 kms through drive or trek from Sankri. It lies on the way of Hark ki Dun trek.  You can either start the Har ki Dun trek from Sankri itself or you can hire a jeep/taxi from Sankri to Taluka and start your trek from Taluka.  "
+    },
+    {
+        "tourId": 10,
+        "id": "10",
+        "name": " Kalpeshwar Temple",
+        "image": "https://firebasestorage.googleapis.com/v0/b/uktweb-b84e0.appspot.com/o/tourism%20in%20uttrakhand%2FUrgam%20Village.jpg?alt=media&token=f35966c9-5308-4e5c-97a8-d5c100677022",
+        "from": "Urgam Village",
+        "description": "Urgam - Serene Village near Kalpeshwar Located in the picturesque Urgam Valley near Joshimath in the Chamoli district of Uttarakhand, Urgam Village is a scenic hamlet tucked at an elevation of about 2100 mts Surrounded by snow-clad peaks of the Garhwal Himalayas and enveloped in dense forests, farmlands, and apple orchards, Urgam Village lies in Urgam Valley which is far away from the modern lifestyle and takes you to a world of its own.  The place is famous for the ancient Shiva temple, Kalpeshwar Temple, one of the revered Panch Kedars. Kalpeshwar Dham lies just 2 km ahead of Urgam Village"
+    },
+
+    {
+        "tourId": 11,
+        "id": "11",
+        "name": "lake Deorial Tal",
+        "image": "",
+        "from": "Sari Village",
+        "description": "Sari Village - Perfect for Village Tour Located at an elevation of 2000 mts, Sari Village is a scenic hamlet at a distance of about 20 kms before Chopta hill station. The village is enclosed by oak and rhododendron trees and resides calmly in the lap of the Himalayas. Sari village or Saari Gaon is the base camp for a very beautiful lake Deorial Tal which is only 2.5 kilometers away from here. Many times when all the hotels in Chopta are closed due to snowfall, then you can get hotels and homestays in Sari Region for your stay. You can easily find few lodges or homestays in Sar "
+    },
+    {
+        "tourId": 12,
+        "id": "12",
+        "name": "trek to Madyamaheshwar Temple",
+        "image": "",
+        "from": "Ransi Village",
+        "description": "Ransi - Gateway to Madmaheshwar Located in the Ukhimath tehsil in the Rudraprayag district of Uttarakhand, Ransi Village is a quaint village lying peacefully amidst the beautifully structured terraced fields, dense green forests, and a wide variety of flora and fauna. The beautiful houses are mostly one or two floors with slate roofs.  The village serves as the base camp for trek to Madyamaheshwar Temple, one of the Panch Kedars. A scenic 16 kms trek through thick forests, beautiful streams, and captivating waterfalls takes you to the temple."
+    },
+    {
+        "tourId": 13,
+        "id": "13",
+        "name": "Osla",
+        "image": " https://firebasestorage.googleapis.com/v0/b/uktweb-b84e0.appspot.com/o/tourism%20in%20uttrakhand%2FOsla%20Village.jpg?alt=media&token=97576c9c-b238-4a0a-8676-489733a2bf96",
+        "from": "Osla Village",
+        "description": "About Osla Village On your way towards Har ki Dun trek which starts at Sankri, you’ll come across a small beautiful hamlet, Osla. Located about 26kms from Taluka and at an altitude of around 2590m, Osla is nestled at the mountain sloped and surrounded by apple trees. The wooden houses of Olsa will instantly grab your attention and you’ll feel a desire to explore this beautiful village. We urge you to do so, because Osla has many things to offer."
+    },
+    {
+        "tourId": 14,
+        "id": "14",
+        "name": "Nathuakhan ",
+        "image": "https://firebasestorage.googleapis.com/v0/b/uktweb-b84e0.appspot.com/o/tourism%20in%20uttrakhand%2FNathuakhan%20Village.jpg?alt=media&token=56e7c757-8d6b-4133-9305-ff96e84ccc8e ",
+        "from": "Nathuakhan Village",
+        "description": "Nathuakhan is a cloistered village enveloped in the Ramgarh block of Nainital district of Uttarakhand. It is adorned at a height of 1,940 metres above sea level in the Kumaon division of Uttarakhand"
+    },
+    {
+        "tourId": 15,
+        "id": "15",
+        "name": "camp to Dayara Bugyal",
+        "image": "https://firebasestorage.googleapis.com/v0/b/uktweb-b84e0.appspot.com/o/tourism%20in%20uttrakhand%2Fraithal%20village.jpg?alt=media&token=ca2c365b-32a4-4f55-b591-6f79de5e2403",
+        "from": "Raithal Village",
+        "description": "Raithal village is a quaint village in the Uttarkashi district of Uttarakhand. Perched at an elevation of 1,800 meters amidst the lush greenery, Raithal village is popular among seasoned trekkers as it is the base camp to Dayara Bugyal"
+    },
+    {
+        "tourId": 16,
+        "id": "16",
+        "name": "Pratap Nagar",
+        "image": "https://firebasestorage.googleapis.com/v0/b/uktweb-b84e0.appspot.com/o/tourism%20in%20uttrakhand%2FPratap%20Nagar.jpg?alt=media&token=d01d6d45-a811-489b-b0ac-cf8ade974693",
+        "from": "Pratap Nagar",
+        "description": "Pratapnagar - Majestic Hamlet with Royal Past Pratap Nagar is a secluded village which is located in Pratapnagar Tehsil in the Tehri district of Uttarakhand state. It is located on ridge at mountain top which offers views of both Snow Clad Himalayas one one side and Tehri Lake and lowers Himalayas on other end."
+    },
+    {
+        "tourId": 17,
+        "id": "17",
+        "name": "Ranichuri",
+        "image": "https://firebasestorage.googleapis.com/v0/b/uktweb-b84e0.appspot.com/o/tourism%20in%20uttrakhand%2FRanichauri.jpg?alt=media&token=1abbac7e-8a47-42a3-bff9-a6ddcd7c194e",
+        "from": "Ranichuri",
+        "description": "Ranichauri is an upcoming destination with beautiful views of Himalayas and best suitable for camping, group activities with Yoga and Meditation. What makes it popular is its close proximity from Rishikesh, Tehri and Dehradun. It is a non-commercialized place which offers peaceful environment, serene views in the lap of nature."
+    },
+    {
+        "tourId": 18,
+        "id": "18",
+        "name": "Chirbatia",
+        "image": "https://firebasestorage.googleapis.com/v0/b/uktweb-b84e0.appspot.com/o/tourism%20in%20uttrakhand%2Fchirbatia-1723090.jpg?alt=media&token=0d4b9d42-89df-43a5-a2c2-161490c9a3d7",
+        "from": "Chirbatia",
+        "description": "Chirbatia - A Quite Hamlet Located in the Rudraprayag district of Uttarakhand, Chirbatia is a small hamlet in the Ghansali – Mayali Road. The beautiful village is set at an elevation of 2134 mts and offers mesmerizing views of the surrounding Himalayas. Chirbatia is strategically located on on Char Dham Yatra route connecting Gangotri to Kedarnath/Badrinath."
+    },
+    {
+        "tourId": 19,
+        "id": "19",
+        "name": "ancient temples constructed by the Katyuri kings",
+        "image": "https://firebasestorage.googleapis.com/v0/b/uktweb-b84e0.appspot.com/o/tourism%20in%20uttrakhand%2Fdwarahat-6950783.jpg?alt=media&token=39666054-24d3-439a-b30f-921b31881097",
+        "from": "Dwarahat",
+        "description": "Dwarahat - The Village of Temple The serene town of Dwarahat is nestled in the ravishing Kumaon hills of Uttarakhand. It is perched at an elevation of 1,510 meters above sea level in the Almora district of Uttarakhand. Dwarahat literally suggests the ‘Way to Heaven’ in the local language. It is famous for the ancient temples constructed by the Katyuri kings. The architecture of these temples is similar to that of the Gurjari School of Art."
+    }
+]
