@@ -1,0 +1,52 @@
+[
+    {
+        "templeId": 1,
+        "id": "1",
+        "name": " Badrinath Temple",
+        "image": "https://firebasestorage.googleapis.com/v0/b/uktweb-b84e0.appspot.com/o/tample%20in%20uk%2Fbadrinath.jpg?alt=media&token=b7f5a7de-81df-446b-a588-11e86048d806",
+        "from": "Chamoli ",
+        "description": "Badrinath or Badrinarayana Temple is a Hindu temple dedicated to Vishnu which is situated in the town of Badrinath in Uttarakhand, India. The temple is also one of the 108 Divya Desams dedicated to Vishnu, who is worshipped as Badrinath—holy shrines for Vaishnavites. It is open for six months every year (between the end of April and the beginning of November), because of extreme weather conditions in the Himalayan region. The temple is located in Garhwal hill tracks in Chamoli district along the banks of Alaknanda River. It is one of the most visited pilgrimage centers of India, having recorded 1,060,000 visits"
+    },
+    {
+        "templeId": 2,
+        "id": "2",
+        "name": " Kedarnath Temple",
+        "image": "https://firebasestorage.googleapis.com/v0/b/uktweb-b84e0.appspot.com/o/tample%20in%20uk%2Fkedarnath.jpg?alt=media&token=cfac3db2-d931-4888-9540-517262f0b432",
+        "from": "Rudraprayag",
+        "description": "Kedarnath Temple (Sanskrit: केदारनाथ मंदिर, IAST: Kēdāranātha Mandira, lit. 'temple of the lord of the field') is a Hindu temple (shrine) dedicated to the Hindu God Shiva. The temple is located on the Garhwal Himalayan range near the Mandakini river, in the state of Uttarakhand, India. Due to extreme weather conditions, the temple is open to the general public only between the months of April (Akshaya Tritiya) and November (Kartik Purnima, the autumn full moon). During the winters, the vigraha (deity) from Kedarnath temple is carried down to Ukhimath where the deity is worshiped for the next six months. Kedarnath is seen as a homogenous form of Shiva, the 'Lord of Kedarkhand', the historical name of the region."
+    },
+    {
+        "templeId": 3,
+        "id": "3",
+        "name": "Jageshwar Temple",
+        "image": "https://firebasestorage.googleapis.com/v0/b/uktweb-b84e0.appspot.com/o/tample%20in%20uk%2Fjageshwar.jpg?alt=media&token=2b56280d-a6ab-4216-8a9d-7fa2521de1da",
+        "from": "Almora",
+        "description": "Jageshwar Temples, also referred to as Jageswar Temples or Jageshwar Valley Temples, are a group of 125 ancient Hindu temples dated between 7th and 14th century near Almora, in the Himalayan Indian state of Uttarakhand.[1] The valley has a number of temple clusters such as the Dandeshwar and Jageshwar sites. Some locations have attracted construction of new temples through the 20th-century. Together these clusters over the valley consist of over 200 structural temples built from cut stone. Many are small, while a few are substantial. They predominantly illustrate North Indian Nagara style of architecture with a few exceptions that show South and Central Indian style designs, many are dedicated to god Shiva, while others in immediate vicinity are dedicated to god Vishnu, Shakti goddesses and Surya traditions of Hinduism"
+    },
+    {
+        "templeId": 4,
+        "id": "4",
+        "name": "Gangotri Temple",
+        "image": "https://firebasestorage.googleapis.com/v0/b/uktweb-b84e0.appspot.com/o/tample%20in%20uk%2FGangotri%20Temple.jpg?alt=media&token=7fe3d9dd-c2b5-486a-979b-79698f8f6005",
+        "from": "Uttarkashi",
+        "description": "Located at an altitude of 3,100mts, Gangotri Temple, the highest temple dedicated to Goddess Ganga, is one of the four Chota Char Dham Yatra pilgrimage sites in Uttarakhand. Goddess Ganga is the personification of the revered Ganga River. The peaceful white temple is surrounded by Deodar and pines and the Greater Himalayan Range. The holy river Bhagirathi, which is one of the two head-streams of Ganga, flows alongside Gangotri Temple.   "
+    },
+    {
+        "templeId": 5,
+        "id": "5",
+        "name": "Yamunotri Temple",
+        "image": "https://firebasestorage.googleapis.com/v0/b/uktweb-b84e0.appspot.com/o/tample%20in%20uk%2FYamunotri%20Temple.jpg?alt=media&token=da46f19c-d07d-4559-9c22-0a6d2f1582af",
+        "from": "Uttarkashi",
+        "description": "Yamunotri Temple is situated in the western region of Garhwal Himalayas at an altitude of 3,291 metres (10,797 ft) in Uttarkashi district, Uttarakhand.[1] It's Just 129 km from Uttarkashi, the main district headquarter. The temple is dedicated to Goddess Yamuna and has a black marble idol of the goddess.[2] The Yamunotri temple is a full day's journey from Uttarakhand's main towns — Uttarkashi, Rishikesh, Haridwar or Dehradun. The actual temple is only accessible by a 13 kilometres (8.1 mi) trek from the town of Hanuman Chatti and a 6 kilometres (3.7 mi) walk from Janki Chatti; horses or palanquins are available for rent. The hike from Hanuman Chatti to Yamunotri takes in views of a number of waterfalls. There are two trekking routes from Hanuman Chatti to Yamunotri, the one along the right bank proceeds via the Markandeya Tirth, where the sage Markandeya wrote the Markandeya Purana, the other route which lies on the left bank of the river goes via Kharsali, from where Yamunotri is a five or six hours climb away."
+    },
+    {
+        "templeId": 6,
+        "id": "6",
+        "name": "Neelkanth Mahadev Temple ",
+        "image": "https://firebasestorage.googleapis.com/v0/b/uktweb-b84e0.appspot.com/o/tample%20in%20uk%2F)Neelkanth%20Mahadev%20Temple.jpg?alt=media&token=3b950447-ae7b-47ac-8a8f-afce4e54cc23",
+        "from": "Pauri Garhwal district ",
+        "description": "Neelkanth Mahadev Temple is a Hindu temple dedicated to Nilkanth, an aspect of Lord Shiva. The temple is about 32 km from Rishikesh in the Pauri Garhwal district of Uttarakhand, India. The temple architecture is very much influenced by the Dravidian style of temple architecture. The temple is dedicated to Lord Shiva and is a popular Hindu pilgrimage site. It is surrounded by dense forests and is adjacent to the mountain ranges of Nar-Narayan. It is enveloped between the valleys of Manikoot, Brahmakoot, and Vishnukoot and is located at the confluence of the rivers Pankaja and Madhumati."
+    }
+]
+
+   
