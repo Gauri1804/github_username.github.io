@@ -5,7 +5,7 @@
  "workout" : "Push" ,
 "musclegroup" : "Chest/Shoulder/Triceps" ,
 "strenghtfocus" : "Chest/Triceps" ,
-"img" : ""
+"img" : "https://firebasestorage.googleapis.com/v0/b/gapsap-ae878.appspot.com/o/muscle%2Fpush%201.png?alt=media&token=424495e2-e40e-41e5-8de4-a8e399e8ff03"
     },
 
     {
@@ -14,7 +14,7 @@
         "workout" : "Pull" ,
        "musclegroup" : "Back/Biceps/Forearms" ,
        "strenghtfocus" : "Back" ,
-       "img" : ""
+       "img" : "https://firebasestorage.googleapis.com/v0/b/gapsap-ae878.appspot.com/o/muscle%2Fpull%202.png?alt=media&token=4609e93d-875f-4825-93c1-cde154e4e130"
            },
 
            {
@@ -23,7 +23,7 @@
             "workout" : "Legs & Abs" ,
            "musclegroup" : "Legs/Abs" ,
            "strenghtfocus" : "Legs" ,
-           "img" : ""
+           "img" : "https://firebasestorage.googleapis.com/v0/b/gapsap-ae878.appspot.com/o/muscle%2Flegs%201.png?alt=media&token=38a030a3-4b93-49bc-b5a2-881a4458741c"
                },
 
                {
@@ -32,7 +32,7 @@
                 "workout" : "Push" ,
                "musclegroup" : "Chest/Shoulder/Triceps" ,
                "strenghtfocus" : "Shoulder" ,
-               "img" : ""
+               "img" : "https://firebasestorage.googleapis.com/v0/b/gapsap-ae878.appspot.com/o/muscle%2Fpush%202.png?alt=media&token=fe38a720-1d83-4703-8a84-82386d12d9b7"
                    },
 
                    {
@@ -41,7 +41,7 @@
                     "workout" : "Pull" ,
                    "musclegroup" : "Back/Biceps/Forearms" ,
                    "strenghtfocus" : "Biceps/Forearms" ,
-                   "img" : ""
+                   "img" : "https://firebasestorage.googleapis.com/v0/b/gapsap-ae878.appspot.com/o/muscle%2Fpull%201.png?alt=media&token=6db0466a-2a3c-4372-bf37-40d45e7cd5a8"
                        },
 
                        {
@@ -50,7 +50,7 @@
                         "workout" : "Legs & Abs" ,
                        "musclegroup" : "Legs/Abs" ,
                        "strenghtfocus" : "Abs" ,
-                       "img" : ""
+                       "img" : "https://firebasestorage.googleapis.com/v0/b/gapsap-ae878.appspot.com/o/muscle%2Flegs%202.png?alt=media&token=4bfffbaa-4566-43f0-854e-958c58f13388"
                            }
 
 
