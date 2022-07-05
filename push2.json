@@ -1,0 +1,101 @@
+[
+
+    { 
+                "id" : "1" ,
+                "muscle" : "chest" ,
+                "excersice_name" : "incline dumbbell press" ,
+                "sets" : "3" ,
+                "raps" : "12-15" ,
+                "rest" : "1:45 sec"
+
+            },
+
+            
+            { 
+                "id" : "2" ,
+                "muscle" : "chest" ,
+                "excersice_name" : "chest press machine" ,
+                "sets" : "3" ,
+                "raps" : "12-15" ,
+                "rest" : "1:45 sec"
+                
+            },
+
+            
+            { 
+                "id" : "3" ,
+                "muscle" : "chest" ,
+                "excersice_name" : "chest dips" ,
+                "sets" : "3" ,
+                "raps" : "12-15" ,
+                "rest" : "1:45 sec"
+                
+            },
+
+            
+            { 
+                "id" : "4" ,
+                "muscle" : "chest" ,
+                "excersice_name" : "pec-dec" ,
+                "sets" : "3" ,
+                "raps" : "15-20" ,
+                "rest" : "1:45 sec"
+                
+            },
+
+            
+            { 
+                "id" : "5" ,
+                "muscle" : "shoulder" ,
+                "excersice_name" : "barbell shoulder press" ,
+                "sets" : "3" ,
+                "raps" : "10-12" ,
+                "rest" : "1:45 sec"
+                
+            },
+
+            
+            { 
+                "id" : "6" ,
+                "muscle" : "shoulder" ,
+                "excersice_name" : "side lateral raise" ,
+                "sets" : "3" ,
+                "raps" : "10-12" ,
+                "rest" : "1:45 sec"
+                
+            },
+
+            
+            { 
+                "id" : "7" ,
+                "muscle" : "shoulder" ,
+                "excersice_name" : "reverse pec-dec" ,
+                "sets" : "3" ,
+                "raps" : "10-12" ,
+                "rest" : "1:45 sec"
+                
+            },
+
+            
+            { 
+                "id" : "8" ,
+                "muscle" : "triceps" ,
+                "excersice_name" : "dumbbell overhead extension" ,
+                "sets" : "3" ,
+                "raps" : "10-12" ,
+                "rest" : "1:45 sec"
+                
+            },
+
+            
+            { 
+                "id" : "9" ,
+                "muscle" : "superset/triceps" ,
+                "excersice_name" : "close grip tricep pushdowns/bench dips" ,
+                "sets" : "3" ,
+                "raps" : "15-20" ,
+                "rest" : "1:45 sec"
+                
+            },
+
+]
