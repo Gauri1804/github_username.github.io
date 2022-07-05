@@ -1,0 +1,513 @@
+[
+    {
+ "id" : "1" ,
+ "day" : "monday" ,
+ "workout" : "Push" ,
+"muscle group" : "Chest/Shoulder/Triceps" ,
+"strenght focus" : "Chest/Triceps" ,
+"img" : ""
+    },
+
+    {
+        "id" : "2" ,
+        "day" : "tuesday" ,
+        "workout" : "Pull" ,
+       "muscle group" : "Back/Biceps/Forearms" ,
+       "strenght focus" : "Back" ,
+       "img" : ""
+           },
+
+           {
+            "id" : "3" ,
+            "day" : "wednesday" ,
+            "workout" : "Legs & Abs" ,
+           "muscle group" : "Legs/Abs" ,
+           "strenght focus" : "Legs" ,
+           "img" : ""
+               },
+
+               {
+                "id" : "4" ,
+                "day" : "thursday" ,
+                "workout" : "Push" ,
+               "muscle group" : "Chest/Shoulder/Triceps" ,
+               "strenght focus" : "Shoulder" ,
+               "img" : ""
+                   },
+
+                   {
+                    "id" : "5" ,
+                    "day" : "friday" ,
+                    "workout" : "Pull" ,
+                   "muscle group" : "Back/Biceps/Forearms" ,
+                   "strenght focus" : "Biceps/Forearms" ,
+                   "img" : ""
+                       },
+
+                       {
+                        "id" : "6" ,
+                        "day" : "stuarday" ,
+                        "workout" : "Legs & Abs" ,
+                       "muscle group" : "Legs/Abs" ,
+                       "strenght focus" : "Abs" ,
+                       "img" : ""
+                           },
+
+
+                           {
+                            "id" : "1.1" ,
+                            "muscle" : "Chest-Compound" ,
+                            "excersice_name" : "barbell bench press" ,
+                            "sets" : "3" ,
+                            "raps" : "5" ,
+                            "rest" : "2_min" 
+                            },
+
+
+                            {
+                                "id" : "1.2" ,
+                                "muscle" : "Chest" ,
+                                "excersice_name" : "incline barbell bench press" ,
+                                "sets" : "3" ,
+                                "raps" : "6-8" ,
+                                "rest" : "1:45 sec" 
+                                },
+
+                                {
+                                    "id" : "1.3" ,
+                                    "muscle" : "Chest" ,
+                                    "excersice_name" : "dumbbell fly" ,
+                                    "sets" : "3" ,
+                                    "raps" : "10-12" ,
+                                    "rest" : "1:45 sec" 
+                                    },
+
+                                    {
+                                        "id" : "1.4" ,
+                                        "muscle" : "Chest" ,
+                                        "excersice_name" : "chest cable crossover " ,
+                                        "sets" : "3" ,
+                                        "raps" : "10-12" ,
+                                        "rest" : "1:45 sec" 
+                                        },
+
+                                        {
+                                            "id" : "1.5" ,
+                                            "muscle" : "Shoulder" ,
+                                            "excersice_name" : "arnold press" ,
+                                            "sets" : "4" ,
+                                            "raps" : "10-12" ,
+                                            "rest" : "1:20 sec" 
+                                            },
+
+                                            {
+                                                "id" : "1.6" ,
+                                                "muscle" : "Shoulder" ,
+                                                "excersice_name" : "dumbbell front raise" ,
+                                                "sets" : "4" ,
+                                                "raps" : "10-12" ,
+                                                "rest" : "1:20 sec" 
+                                                },
+
+                                                {
+                                                    "id" : "1.7" ,
+                                                    "muscle" : "Shoulder" ,
+                                                    "excersice_name" : "face-pull" ,
+                                                    "sets" : "4" ,
+                                                    "raps" : "10-12" ,
+                                                    "rest" : "1:20 sec" 
+                                                    },
+
+                                                    {
+                                                        "id" : "1.8" ,
+                                                        "muscle" : "Triceps" ,
+                                                        "excersice_name" : "ez bar skull crusher" ,
+                                                        "sets" : "4" ,
+                                                        "raps" : "8-10" ,
+                                                        "rest" : "1:30 sec" 
+                                                        },
+
+                                                        {
+                                                            "id" : "1.9" ,
+                                                            "muscle" : "Triceps" ,
+                                                            "excersice_name" : "Triceps pushdowns " ,
+                                                            "sets" : "4" ,
+                                                            "raps" : "8-10" ,
+                                                            "rest" : "1.30 sec" 
+                                                            },
+
+
+            { 
+                "b1_id" : "2.0" ,
+                "b1_muscle" : "back" ,
+                "b1_excersice_name" : "deadlift" ,
+                "b1_sets" : "3" ,
+                "b1_raps" : "5" ,
+                "b1_rest" : "2:30 sec"
+            },
+
+            { 
+                "b1_id" : "2.1" ,
+                "b1_muscle" : "back" ,
+                "b1_excersice_name" : "lat pull down" ,
+                "b1_sets" : "3" ,
+                "b1_raps" : "8-10" ,
+                "b1_rest" : "1:30 sec"
+            },
+            { 
+                "b1_id" : "2.2" ,
+                "b1_muscle" : "back" ,
+                "b1_excersice_name" : "barbell bent over row" ,
+                "b1_sets" : "3" ,
+                "b1_raps" : "8-10" ,
+                "b1_rest" : "1:30 sec"
+            },
+            { 
+                "b1_id" : "2.3" ,
+                "b1_muscle" : "back" ,
+                "b1_excersice_name" : "barbell shrugs" ,
+                "b1_sets" : "3" ,
+                "b1_raps" : "8-10" ,
+                "b1_rest" : "1:30 sec"
+            },
+            { 
+                "b1_id" : "2.4" ,
+                "b1_muscle" : "back" ,
+                "b1_excersice_name" : "lower back extension" ,
+                "b1_sets" : "3" ,
+                "b1_raps" : "8-10" ,
+                "b1_rest" : "1:30 sec"
+            },
+            { 
+                "b1_id" : "2.5" ,
+                "b1_muscle" : "biceps" ,
+                "b1_excersice_name" : "ez-bar curl" ,
+                "b1_sets" : "4" ,
+                "b1_raps" : "10-12" ,
+                "b1_rest" : "1:30 sec"
+            },
+            { 
+                "b1_id" : "2.6" ,
+                "b1_muscle" : "biceps" ,
+                "b1_excersice_name" : "preacher curl" ,
+                "b1_sets" : "4" ,
+                "b1_raps" : "10-12" ,
+                "b1_rest" : "1:30 sec"
+            },
+              { 
+                "b1_id" : "2.7" ,
+                "b1_muscle" : "superset:-forearm" ,
+                "b1_excersice_name" : "reverse curl/behind the back forearm curls" ,
+                "b1_sets" : "4" ,
+                "b1_raps" : "10-12" ,
+                "b1_rest" : "1:30 sec"
+            },
+               
+            
+
+            { 
+                "l1_id" : "2.8" ,
+                "l1_muscle" : "Legs" ,
+                "l1_excersice_name" : "barbell squat" ,
+                "l1_sets" : "3" ,
+                "l1_raps" : "5" ,
+                "l1_rest" : "2:30 sec"
+            },
+
+            { 
+                "l1_id" : "2.9" ,
+                "l1_muscle" : "Legs" ,
+                "l1_excersice_name" : "dumbbell lunges" ,
+                "l1_sets" : "3" ,
+                "l1_raps" : "10-12" ,
+                "l1_rest" : "1:30 sec"
+            },
+
+            { 
+                "l1_id" : "3.0" ,
+                "l1_muscle" : "Legs" ,
+                "l1_excersice_name" : "quad extension" ,
+                "l1_sets" : "3" ,
+                "l1_raps" : "10-12" ,
+                "l1_rest" : "1:30 sec"
+            },
+
+            { 
+                "l1_id" : "3.1" ,
+                "l1_muscle" : "Legs" ,
+                "l1_excersice_name" : "hamstring curls" ,
+                "l1_sets" : "3" ,
+                "l1_raps" : "10-12" ,
+                "l1_rest" : "1:30 sec"
+            },
+
+            { 
+                "l1_id" : "3.2" ,
+                "l1_muscle" : "Legs" ,
+                "l1_excersice_name" : "barbell standing toe raises" ,
+                "l1_sets" : "4" ,
+                "l1_raps" : "10-12" ,
+                "l1_rest" : "1:30 sec"
+            },
+
+            { 
+                "l1_id" : "3.3" ,
+                "l1_muscle" : "Abs" ,
+                "l1_excersice_name" : "stability ball crunches" ,
+                "l1_sets" : "4" ,
+                "l1_raps" : "20" ,
+                "l1_rest" : "30 sec"
+            },
+
+            { 
+                "l1_id" : "3.4" ,
+                "l1_muscle" : "obliques" ,
+                "l1_excersice_name" : "side plank" ,
+                "l1_sets" : "4" ,
+                "l1_raps" : "30 sec" ,
+                "l1_rest" : "30 sec"
+            },
+
+
+            { 
+                "c_id" : "3.5" ,
+                "c_muscle" : "chest" ,
+                "c_excersice_name" : "incline dumbbell press" ,
+                "c_sets" : "4" ,
+                "c_raps" : "12-15" ,
+                "c_rest" : "1:45 sec"
+
+            },
+
+            
+            { 
+                "c_id" : "3.6" ,
+                "c_muscle" : "chest" ,
+                "c_excersice_name" : "chest press machine" ,
+                "c_sets" : "4" ,
+                "c_raps" : "12-15" ,
+                "c_rest" : "1:45 sec"
+                
+            },
+
+            
+            { 
+                "c_id" : "3.7" ,
+                "c_muscle" : "chest" ,
+                "c_excersice_name" : "chest dips" ,
+                "c_sets" : "4" ,
+                "c_raps" : "12-15" ,
+                "c_rest" : "1:45 sec"
+                
+            },
+
+            
+            { 
+                "c_id" : "3.8" ,
+                "c_muscle" : "chest" ,
+                "c_excersice_name" : "pec-dec" ,
+                "c_sets" : "4" ,
+                "c_raps" : "15-20" ,
+                "c_rest" : "1:45 sec"
+                
+            },
+
+            
+            { 
+                "c_id" : "3.9" ,
+                "c_muscle" : "shoulder" ,
+                "c_excersice_name" : "barbell shoulder press" ,
+                "c_sets" : "3" ,
+                "c_raps" : "10-12" ,
+                "c_rest" : "1:45 sec"
+                
+            },
+
+            
+            { 
+                "c_id" : "4.0" ,
+                "c_muscle" : "shoulder" ,
+                "c_excersice_name" : "side lateral raise" ,
+                "c_sets" : "4" ,
+                "c_raps" : "10-12" ,
+                "c_rest" : "1:45 sec"
+                
+            },
+
+            
+            { 
+                "c_id" : "4.1" ,
+                "c_muscle" : "shoulder" ,
+                "c_excersice_name" : "reverse pec-dec" ,
+                "c_sets" : "4" ,
+                "c_raps" : "10-12" ,
+                "c_rest" : "1:45 sec"
+                
+            },
+
+            
+            { 
+                "c_id" : "4.2" ,
+                "c_muscle" : "triceps" ,
+                "c_excersice_name" : "dumbbell overhead extension" ,
+                "c_sets" : "4" ,
+                "c_raps" : "10-12" ,
+                "c_rest" : "1:45 sec"
+                
+            },
+
+            
+            { 
+                "c_id" : "4.3" ,
+                "c_muscle" : "superset/triceps" ,
+                "c_excersice_name" : "close grip tricep pushdowns/bench dips" ,
+                "c_sets" : "4" ,
+                "c_raps" : "15-20" ,
+                "c_rest" : "1:45 sec"
+                
+            },
+
+
+            { 
+                "b2_id" : "4.4" ,
+                "b2_muscle" : "back" ,
+                "b2_excersice_name" : "pause deadlift" ,
+                "b2_sets" : "3" ,
+                "b2_raps" : "10-12" ,
+                "b2_rest" : "1:45 sec"
+                
+            },
+   
+
+            { 
+                "b2_id" : "4.5" ,
+                "b2_muscle" : "back" ,
+                "b2_excersice_name" : "seated rows" ,
+                "b2_sets" : "4" ,
+                "b2_raps" : "15-20" ,
+                "b2_rest" : "1:45 sec"
+                
+            },
+   
+            { 
+                "b2_id" : "4.6" ,
+                "b2_muscle" : "back" ,
+                "b2_excersice_name" : "Bent Over Two Arm Long Bar Row" ,
+                "b2_sets" : "4" ,
+                "b2_raps" : "15" ,
+                "b2_rest" : "1:45 sec"
+                
+            },
+   
+            { 
+                "b2_id" : "4.7" ,
+                "b2_muscle" : "back" ,
+                "b2_excersice_name" : "dumbell front shrugs" ,
+                "b2_sets" : "4" ,
+                "b2_raps" : "12-15" ,
+                "b2_rest" : "1:45 sec"
+                
+            },
+   
+            { 
+                "b2_id" : "4.8" ,
+                "b2_muscle" : "back" ,
+                "b2_excersice_name" : "stif leg deadlift" ,
+                "b2_sets" : "4" ,
+                "b2_raps" : "12-15" ,
+                "b2_rest" : "1:45 sec"
+                
+            },
+   
+        
+   
+            { 
+                "b2_id" : "4.9" ,
+                "b2_muscle" : "biceps" ,
+                "b2_excersice_name" : "incline dumbbell curl" ,
+                "b2_sets" : "4" ,
+                "b2_raps" : "15" ,
+                "b2_rest" : "1:30 sec"
+                
+            },
+   
+            { 
+                "b2_id" : "5.0" ,
+                "b2_muscle" : "biceps" ,
+                "b2_excersice_name" : "spider crul" ,
+                "b2_sets" : "4" ,
+                "b2_raps" : "15" ,
+                "b2_rest" : "1:30 sec"
+                
+            },
+   
+   
+   
+            { 
+                "b2_id" : "5.1" ,
+                "b2_muscle" : "superset forearms" ,
+                "b2_excersice_name" : "arm wrestling crul/forearm cruls" ,
+                "b2_sets" : "4" ,
+                "b2_raps" : "15-20" ,
+                "b2_rest" : "1:00 sec"
+                
+            },
+   
+
+            { 
+                "l2_id" : "5.2" ,
+                "l2_muscle" : "legs" ,
+                "l2_excersice_name" : "barbell front squat" ,
+                "l2_sets" : "4" ,
+                "l2_raps" : "10-12" ,
+                "l2_rest" : "1:45 sec"
+                
+            },
+            { 
+                "l2_id" : "5.3" ,
+                "l2_muscle" : "legs" ,
+                "l2_excersice_name" : "leg press" ,
+                "l2_sets" : "4" ,
+                "l2_raps" : "12-15" ,
+                "l2_rest" : "1:45 sec"
+                
+            },
+            { 
+                "l2_id" : "5.4" ,
+                "l2_muscle" : "legs" ,
+                "l2_excersice_name" : "quad extension" ,
+                "l2_sets" : "4" ,
+                "l2_raps" : "15-18" ,
+                "l2_rest" : "1:45 sec"
+                
+            },
+            { 
+                "l2_id" : "5.5" ,
+                "l2_muscle" : "legs" ,
+                "l2_excersice_name" : "seated toe raises" ,
+                "l2_sets" : "4" ,
+                "l2_raps" : "15-18" ,
+                "l2_rest" : "59 sec"
+                
+            },
+            { 
+                "l2_id" : "5.6" ,
+                "l2_muscle" : "Abs" ,
+                "l2_excersice_name" : "" ,
+                "l2_sets" : "4" ,
+                "l2_raps" : "15-20" ,
+                "l2_rest" : "45 sec"
+                
+            },
+
+            { 
+                "l2_id" : "5.7" ,
+                "l2_muscle" : "obliques" ,
+                "l2_excersice_name" : "wood chopper " ,
+                "l2_sets" : "4" ,
+                "l2_raps" : "15-20" ,
+                "l2_rest" : "45 sec"
+                
+            }
+                           
+]
