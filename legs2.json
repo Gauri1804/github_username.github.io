@@ -1,0 +1,60 @@
+[
+
+
+        { 
+                "id" : "1" ,
+                "muscle" : "legs" ,
+                "excersice_name" : "barbell front squat" ,
+                "sets" : "3" ,
+                "raps" : "10-12" ,
+                "rest" : "1:45 sec"
+                
+            },
+            { 
+                "id" : "2" ,
+                "muscle" : "legs" ,
+                "excersice_name" : "leg press" ,
+                "sets" : "3" ,
+                "raps" : "12-15" ,
+                "rest" : "1:45 sec"
+                
+            },
+            { 
+                "id" : "3" ,
+                "muscle" : "legs" ,
+                "excersice_name" : "quad extension" ,
+                "sets" : "3" ,
+                "raps" : "15-18" ,
+                "rest" : "1:45 sec"
+                
+            },
+            { 
+                "id" : "4" ,
+                "muscle" : "legs" ,
+                "excersice_name" : "seated toe raises" ,
+                "sets" : "4" ,
+                "raps" : "15-18" ,
+                "rest" : "59 sec"
+                
+            },
+            { 
+                "id" : "5" ,
+                "muscle" : "Abs" ,
+                "excersice_name" : "" ,
+                "sets" : "4" ,
+                "raps" : "15-20" ,
+                "rest" : "45 sec"
+                
+            },
+
+            { 
+                "id" : "6" ,
+                "muscle" : "obliques" ,
+                "excersice_name" : "wood chopper " ,
+                "sets" : "4" ,
+                "raps" : "15-20" ,
+                "rest" : "45 sec"
+                
+            }
+
+]
