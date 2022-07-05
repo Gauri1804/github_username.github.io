@@ -3,8 +3,8 @@
  "id" : "1" ,
  "day" : "monday" ,
  "workout" : "Push" ,
-"muscle group" : "Chest/Shoulder/Triceps" ,
-"strenght focus" : "Chest/Triceps" ,
+"musclegroup" : "Chest/Shoulder/Triceps" ,
+"strenghtfocus" : "Chest/Triceps" ,
 "img" : ""
     },
 
@@ -12,8 +12,8 @@
         "id" : "2" ,
         "day" : "tuesday" ,
         "workout" : "Pull" ,
-       "muscle group" : "Back/Biceps/Forearms" ,
-       "strenght focus" : "Back" ,
+       "musclegroup" : "Back/Biceps/Forearms" ,
+       "strenghtfocus" : "Back" ,
        "img" : ""
            },
 
@@ -21,8 +21,8 @@
             "id" : "3" ,
             "day" : "wednesday" ,
             "workout" : "Legs & Abs" ,
-           "muscle group" : "Legs/Abs" ,
-           "strenght focus" : "Legs" ,
+           "musclegroup" : "Legs/Abs" ,
+           "strenghtfocus" : "Legs" ,
            "img" : ""
                },
 
@@ -30,8 +30,8 @@
                 "id" : "4" ,
                 "day" : "thursday" ,
                 "workout" : "Push" ,
-               "muscle group" : "Chest/Shoulder/Triceps" ,
-               "strenght focus" : "Shoulder" ,
+               "musclegroup" : "Chest/Shoulder/Triceps" ,
+               "strenghtfocus" : "Shoulder" ,
                "img" : ""
                    },
 
@@ -39,8 +39,8 @@
                     "id" : "5" ,
                     "day" : "friday" ,
                     "workout" : "Pull" ,
-                   "muscle group" : "Back/Biceps/Forearms" ,
-                   "strenght focus" : "Biceps/Forearms" ,
+                   "musclegroup" : "Back/Biceps/Forearms" ,
+                   "strenghtfocus" : "Biceps/Forearms" ,
                    "img" : ""
                        },
 
@@ -48,8 +48,8 @@
                         "id" : "6" ,
                         "day" : "stuarday" ,
                         "workout" : "Legs & Abs" ,
-                       "muscle group" : "Legs/Abs" ,
-                       "strenght focus" : "Abs" ,
+                       "musclegroup" : "Legs/Abs" ,
+                       "strenghtfocus" : "Abs" ,
                        "img" : ""
                            }
 
