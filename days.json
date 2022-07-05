@@ -1,0 +1,57 @@
+[
+    {
+ "id" : "1" ,
+ "day" : "monday" ,
+ "workout" : "Push" ,
+"muscle group" : "Chest/Shoulder/Triceps" ,
+"strenght focus" : "Chest/Triceps" ,
+"img" : ""
+    },
+
+    {
+        "id" : "2" ,
+        "day" : "tuesday" ,
+        "workout" : "Pull" ,
+       "muscle group" : "Back/Biceps/Forearms" ,
+       "strenght focus" : "Back" ,
+       "img" : ""
+           },
+
+           {
+            "id" : "3" ,
+            "day" : "wednesday" ,
+            "workout" : "Legs & Abs" ,
+           "muscle group" : "Legs/Abs" ,
+           "strenght focus" : "Legs" ,
+           "img" : ""
+               },
+
+               {
+                "id" : "4" ,
+                "day" : "thursday" ,
+                "workout" : "Push" ,
+               "muscle group" : "Chest/Shoulder/Triceps" ,
+               "strenght focus" : "Shoulder" ,
+               "img" : ""
+                   },
+
+                   {
+                    "id" : "5" ,
+                    "day" : "friday" ,
+                    "workout" : "Pull" ,
+                   "muscle group" : "Back/Biceps/Forearms" ,
+                   "strenght focus" : "Biceps/Forearms" ,
+                   "img" : ""
+                       },
+
+                       {
+                        "id" : "6" ,
+                        "day" : "stuarday" ,
+                        "workout" : "Legs & Abs" ,
+                       "muscle group" : "Legs/Abs" ,
+                       "strenght focus" : "Abs" ,
+                       "img" : ""
+                           }
+
+
+                         ]
