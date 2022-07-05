@@ -1,0 +1,71 @@
+[
+
+
+            { 
+                "id" : "1" ,
+                "muscle" : "back" ,
+                "excersice_name" : "deadlift" ,
+                "sets" : "3" ,
+                "raps" : "5" ,
+                "rest" : "2:30 sec"
+            },
+
+            { 
+                "id" : "2" ,
+                "muscle" : "back" ,
+                "excersice_name" : "lat pull down" ,
+                "sets" : "3" ,
+                "raps" : "8-10" ,
+                "rest" : "1:30 sec"
+            },
+            { 
+                "id" : "2.2" ,
+                "muscle" : "back" ,
+                "excersice_name" : "barbell bent over row" ,
+                "sets" : "3" ,
+                "raps" : "8-10" ,
+                "rest" : "1:30 sec"
+            },
+            { 
+                "id" : "3" ,
+                "muscle" : "back" ,
+                "excersice_name" : "barbell shrugs" ,
+                "sets" : "3" ,
+                "raps" : "8-10" ,
+                "rest" : "1:30 sec"
+            },
+            { 
+                "id" : "4" ,
+                "muscle" : "back" ,
+                "excersice_name" : "lower back extension" ,
+                "sets" : "3" ,
+                "raps" : "8-10" ,
+                "rest" : "1:30 sec"
+            },
+            { 
+                "id" : "5" ,
+                "muscle" : "biceps" ,
+                "excersice_name" : "ez-bar curl" ,
+                "sets" : "4" ,
+                "raps" : "10-12" ,
+                "rest" : "1:30 sec"
+            },
+            { 
+                "id" : "6" ,
+                "muscle" : "biceps" ,
+                "excersice_name" : "preacher curl" ,
+                "sets" : "4" ,
+                "raps" : "10-12" ,
+                "rest" : "1:30 sec"
+            },
+              { 
+                "id" : "7" ,
+                "muscle" : "superset:-forearm" ,
+                "excersice_name" : "reverse curl/behind the back forearm curls" ,
+                "sets" : "4" ,
+                "raps" : "10-12" ,
+                "rest" : "1:30 sec"
+            },
+               
+
+]
