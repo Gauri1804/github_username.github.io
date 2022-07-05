@@ -1,0 +1,88 @@
+[
+
+{ 
+                "id" : "1" ,
+                "muscle" : "back" ,
+                "excersice_name" : "pause deadlift" ,
+                "sets" : "3" ,
+                "raps" : "10-12" ,
+                "rest" : "1:45 sec"
+                
+            },
+   
+
+            { 
+                "id" : "2" ,
+                "muscle" : "back" ,
+                "excersice_name" : "seated rows" ,
+                "sets" : "3" ,
+                "raps" : "15-20" ,
+                "rest" : "1:45 sec"
+                
+            },
+   
+            { 
+                "id" : "3" ,
+                "muscle" : "back" ,
+                "excersice_name" : "Bent Over Two Arm Long Bar Row" ,
+                "sets" : "3" ,
+                "raps" : "15" ,
+                "rest" : "1:45 sec"
+                
+            },
+   
+            { 
+                "id" : "4" ,
+                "muscle" : "back" ,
+                "excersice_name" : "dumbell front shrugs" ,
+                "sets" : "3" ,
+                "raps" : "12-15" ,
+                "rest" : "1:45 sec"
+                
+            },
+   
+            { 
+                "id" : "5" ,
+                "muscle" : "back" ,
+                "excersice_name" : "stif leg deadlift" ,
+                "sets" : "3" ,
+                "raps" : "12-15" ,
+                "rest" : "1:45 sec"
+                
+            },
+   
+        
+   
+            { 
+                "id" : "6" ,
+                "muscle" : "biceps" ,
+                "excersice_name" : "incline dumbbell curl" ,
+                "sets" : "4" ,
+                "raps" : "15" ,
+                "rest" : "1:30 sec"
+                
+            },
+   
+            { 
+                "id" : "7" ,
+                "muscle" : "biceps" ,
+                "excersice_name" : "spider crul" ,
+                "sets" : "4" ,
+                "raps" : "15" ,
+                "rest" : "1:30 sec"
+                
+            },
+   
+   
+   
+            { 
+                "id" : "8" ,
+                "muscle" : "superset forearms" ,
+                "excersice_name" : "arm wrestling crul/forearm cruls" ,
+                "sets" : "4" ,
+                "raps" : "15-20" ,
+                "rest" : "1:00 sec"
+                
+            },
+
+]
