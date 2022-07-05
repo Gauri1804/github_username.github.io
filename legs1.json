@@ -1,0 +1,67 @@
+[
+
+  
+            { 
+                "id" : "1" ,
+                "muscle" : "Legs" ,
+                "excersice_name" : "barbell squat" ,
+                "sets" : "3" ,
+                "raps" : "5" ,
+                "rest" : "2:30 sec"
+            },
+
+            { 
+                "id" : "2" ,
+                "muscle" : "Legs" ,
+                "excersice_name" : "dumbbell lunges" ,
+                "sets" : "3" ,
+                "raps" : "10-12" ,
+                "rest" : "1:30 sec"
+            },
+
+            { 
+                "id" : "3" ,
+                "muscle" : "Legs" ,
+                "excersice_name" : "quad extension" ,
+                "sets" : "3" ,
+                "raps" : "10-12" ,
+                "rest" : "1:30 sec"
+            },
+
+            { 
+                "id" : "4" ,
+                "muscle" : "Legs" ,
+                "excersice_name" : "hamstring curls" ,
+                "sets" : "3" ,
+                "raps" : "10-12" ,
+                "rest" : "1:30 sec"
+            },
+
+            { 
+                "id" : "5" ,
+                "muscle" : "Legs" ,
+                "excersice_name" : "barbell standing toe raises" ,
+                "sets" : "4" ,
+                "raps" : "10-12" ,
+                "rest" : "1:30 sec"
+            },
+
+            { 
+                "id" : "6" ,
+                "muscle" : "Abs" ,
+                "excersice_name" : "stability ball crunches" ,
+                "sets" : "4" ,
+                "raps" : "20" ,
+                "rest" : "30 sec"
+            },
+
+            { 
+                "id" : "7" ,
+                "muscle" : "obliques" ,
+                "excersice_name" : "side plank" ,
+                "sets" : "4" ,
+                "raps" : "30 sec" ,
+                "rest" : "30 sec"
+            },
+
+]
